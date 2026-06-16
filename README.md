@@ -48,7 +48,7 @@ Linear Regression achieved the best performance on this dataset with an R² scor
 
 ### Feature Importance
 
-![Feature Importance](images/featureimp.png)
+![Feature Importance](images/Featureimp.png)
 
 ### Heat Map
 ![Heat_Map](images/heatmap.png)
