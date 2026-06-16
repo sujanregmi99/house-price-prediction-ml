@@ -39,6 +39,20 @@ Target Variable:
 
 Linear Regression achieved the best performance on this dataset with an R² score of 0.985 and the lowest prediction error.
 
+
+## Visualization
+
+### Actual vs Predicted House Prices
+
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
+### Feature Importance
+
+![Feature Importance](images/featureimp.png)
+
+### Heat Map
+![Heat_Map](images/heatmap.png)
+
 ## Technologies Used
 
 * Python
